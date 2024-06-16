@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "gopro-telemetry": "^1.2.6",
+    "gpmf-extract": "^0.3.1"
+  }
+}
